@@ -1,0 +1,6 @@
+﻿Build started at 18:11...
+1>------ Build started: Project: Proba, Configuration: Debug x64 ------
+1>  Proba.cpp
+1>  Proba.vcxproj -> C:\Users\Rendszergazda\source\repos\Proba\x64\Debug\Proba.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 18:12 and took 02,310 seconds ==========
